@@ -1,0 +1,46 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+
+
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+  }
+  
+  .column {
+    flex: 1;
+    padding: 10px;
+  }
+
+
+  body {
+    background-color: aquamarine;
+    color: coral;
+}
+
+title{
+
+    
+}
+
+h1 {
+    font-family: 'Arial';
+    font-size: 38px;
+    text-align: center;
+
+}
+
+
+
+p {
+    font-family: 'Georgia';
+    font-size: 28px;
+    padding: 15px;
+    margin: 28px;
+
+
+}
